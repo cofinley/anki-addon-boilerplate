@@ -1,6 +1,6 @@
-# anki-ff
+# anki-addon-boilerplate
 
-An Anki add-on for the Fluent Forever methodology
+An Anki add-on for getting started.
 
 ## Developing
 
